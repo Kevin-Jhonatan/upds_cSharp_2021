@@ -1,0 +1,7 @@
+Coca-Cola Diet Cantidad vendida: 3
+Fanta Personal Cantidad vendida: 2
+La suma total es: 30
+Coca-Cola 3L Cantidad vendida: 4
+Fanta Personal Cantidad vendida: 10004
+Sprite Personal Cantidad vendida: 100
+La suma total es: 60672

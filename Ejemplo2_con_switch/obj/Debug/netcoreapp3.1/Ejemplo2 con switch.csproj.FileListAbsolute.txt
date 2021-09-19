@@ -1,0 +1,13 @@
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\bin\Debug\netcoreapp3.1\Ejemplo2 con switch.exe
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\bin\Debug\netcoreapp3.1\Ejemplo2 con switch.deps.json
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\bin\Debug\netcoreapp3.1\Ejemplo2 con switch.runtimeconfig.json
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\bin\Debug\netcoreapp3.1\Ejemplo2 con switch.runtimeconfig.dev.json
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\bin\Debug\netcoreapp3.1\Ejemplo2 con switch.dll
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\bin\Debug\netcoreapp3.1\Ejemplo2 con switch.pdb
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\obj\Debug\netcoreapp3.1\Ejemplo2 con switch.AssemblyInfoInputs.cache
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\obj\Debug\netcoreapp3.1\Ejemplo2 con switch.AssemblyInfo.cs
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\obj\Debug\netcoreapp3.1\Ejemplo2 con switch.csproj.CoreCompileInputs.cache
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\obj\Debug\netcoreapp3.1\Ejemplo2 con switch.dll
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\obj\Debug\netcoreapp3.1\Ejemplo2 con switch.pdb
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\obj\Debug\netcoreapp3.1\Ejemplo2 con switch.genruntimeconfig.cache
+E:\UPDS\Progrmacion II\Ejemplos exposicion\Ejemplo2 con switch\obj\Debug\netcoreapp3.1\Ejemplo2 con switch.csprojAssemblyReference.cache

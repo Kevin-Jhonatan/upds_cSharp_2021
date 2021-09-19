@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejemplo2 con switch/1.0.0": {
+        "runtime": {
+          "Ejemplo2 con switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejemplo2 con switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

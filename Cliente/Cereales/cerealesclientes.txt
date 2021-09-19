@@ -1,0 +1,3 @@
+Chocopotamos Cantidad vendida: 2
+Froties Cantidad vendida: 4
+La suma total es: 90
